@@ -1,2 +1,2 @@
 # git_recommender
-Github Repo Recommendation using github api and react js.
+Github Repo Recommendation using github api and React JS.
